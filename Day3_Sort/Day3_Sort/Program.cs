@@ -24,7 +24,7 @@ namespace Day3_Sort
             int counterDownward = array.Length;
 
             //ArraySortingUpward
-            for (int i = 0; counterUpward != counterDownward ; i++, counterUpward++, counterDownward--)
+            for (int i = 0; counterUpward < counterDownward ; i++, counterUpward++, counterDownward--)
             {
                 Console.WriteLine($"Sort(Upward). Cycle №{i+1}");
                 for (int k = 0; k < array.Length - 1; k++)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amfib\\source\\repos\\Day3_Sort\\Day3_Sort\\Day3_Sort.csproj",
+      "projectUniqueName": "C:\\Users\\amfib\\source\\repository\\Day3_Sort\\Day3_Sort\\Day3_Sort.csproj",
       "projectName": "Day3_Sort",
-      "projectPath": "C:\\Users\\amfib\\source\\repos\\Day3_Sort\\Day3_Sort\\Day3_Sort.csproj",
+      "projectPath": "C:\\Users\\amfib\\source\\repository\\Day3_Sort\\Day3_Sort\\Day3_Sort.csproj",
       "packagesPath": "C:\\Users\\amfib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amfib\\source\\repos\\Day3_Sort\\Day3_Sort\\obj\\",
+      "outputPath": "C:\\Users\\amfib\\source\\repository\\Day3_Sort\\Day3_Sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amfib\\AppData\\Roaming\\NuGet\\NuGet.Config",
