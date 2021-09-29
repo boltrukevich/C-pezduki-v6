@@ -1,0 +1,16 @@
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.csproj.AssemblyReference.cache
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.AssemblyInfoInputs.cache
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.AssemblyInfo.cs
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.csproj.CoreCompileInputs.cache
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.exe
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.deps.json
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.runtimeconfig.json
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.runtimeconfig.dev.json
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.dll
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\ref\Day3_Sort.dll
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\bin\Debug\net5.0\Day3_Sort.pdb
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.dll
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\ref\Day3_Sort.dll
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.pdb
+C:\Users\amfib\source\repos\Day3_Sort\Day3_Sort\obj\Debug\net5.0\Day3_Sort.genruntimeconfig.cache
